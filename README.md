@@ -1,2 +1,28 @@
-# 5b33e124-podcast-production-directory-a
-The podcast production tool you'd build yourself — if you had the time.  Compatible with all major WordPress themes and page builders. Regular security updates. Works with WordPress multisite.  ## What's Included  - Podcast Production Directory And Listings — fully configured and ready to use - Clean admin settings panel with inline documentation -
+# Podcast Production Directory and Listings WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ4gzdPp8Is8FG9rKcZs1B)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ4gzdPp8Is8FG9rKcZs1B)
+
